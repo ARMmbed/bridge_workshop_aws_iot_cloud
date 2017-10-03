@@ -1,9 +1,9 @@
 # bridge_workshop_aws_iot_cloud
 Bridge workshop connecting AWS IoT with mbed Cloud
 
-Logs:
+Updates:
 
-    10/3/2017: Initial checkin of v2.2 workshop content release
+    10/3/2017: Initial checkin of v2.2 workshop release content
 
 Links for the workshop
 
@@ -40,7 +40,7 @@ Links for the workshop
 - mbed Developer IDE:
       https://os.mbed.com
 
-- mbed Cloud Dashboard:
+- mbed Cloud Portal Dashboard:
       https://portal.mbedcloud.com
 
 - K64F Sample Project used in Workshop:
