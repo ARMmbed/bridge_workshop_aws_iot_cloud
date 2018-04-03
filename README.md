@@ -3,6 +3,8 @@ Bridge workshop connecting AWS IoT with mbed Cloud
 
 Updates:
 
+- 04/03/2018: Updaet to v2.4
+
 - 02/14/2018: Update to v2.3
 
 - 10/3/2017: Initial checkin of v2.2 workshop release content
