@@ -1,7 +1,9 @@
 # bridge_workshop_aws_iot_cloud
-Bridge workshop connecting AWS IoT with mbed Cloud
+Bridge workshop connecting AWS IoT with mbed Cloud (Pelion Device Management):w
 
 Updates:
+
+- 08/22/2018: Update to v2.6 - FYI Connector support has been EOLed 
 
 - 04/03/2018: Update to v2.4
 
